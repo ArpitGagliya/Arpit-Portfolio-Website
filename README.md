@@ -13,4 +13,4 @@ The aim of this portfolio is to create a simple and attractive way to:
 - Share my journey as a game developer  
 - Provide an easy way to connect with me  
 
-([portfolio website link :- ](https://arpitgagliya.github.io/Arpit-Portfolio-Website/))
+[portfolio website link ](https://arpitgagliya.github.io/Arpit-Portfolio-Website/)
